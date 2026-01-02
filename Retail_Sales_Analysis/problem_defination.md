@@ -1,0 +1,5 @@
+Many businesses invest in marketing activities, pricing adjustments, and discount strategies with the expectation of increasing sales revenue. However, without a clear understanding of how much each factor contributes to revenue growth, such decisions may lead to inefficient allocation of resources and reduced return on investment.
+
+In this project, historical sales data is analyzed to quantify the impact of key business factors such as marketing spend, pricing, customer volume, and discounts on sales revenue. A multiple linear regression approach is used to model these relationships, as it provides interpretable coefficient-based insights that help explain how changes in each factor influence revenue.
+
+The primary objective of this analysis is to support data-driven business decision-making by identifying the most influential revenue drivers and enabling better planning of marketing budgets and pricing strategies.
